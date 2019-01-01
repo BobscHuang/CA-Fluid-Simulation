@@ -58,7 +58,7 @@ float buttonXClear = 850;
 //Sets up initial values
 void setup(){
   //fullScreen();
-  size(2000, 2000);
+  size(1500, 1500);
   smooth();
   
   frameNumber = 0;
